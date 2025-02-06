@@ -1,13 +1,6 @@
-# hello_module
+# 2025 (C) Toni Helminen
+# Run a simple Linux module and remove it
 
-A Simple Linux module example.
-AI stuff mainly.
-
-## Test
-
-`sh run.sh` or
-
-```
 # Compile the module
 make
 
@@ -25,4 +18,3 @@ dmesg | tail
 
 # Clean up
 make clean
-```
